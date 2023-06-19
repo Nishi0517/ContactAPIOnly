@@ -1,0 +1,25 @@
+
+
+project is only for WEBAPI  project.. no view & front end- for api knowledge & code structure
+
+code first migration
+
+add-migration "initial"
+update-database
+
+
+connection string: - ContactsDB
+
+"ContactsApiConnectionString": "Server=ATI-1;Database=ContactsDB;Trusted_Connection=true"
+
+Package
+
+
+Microsoft.EntityFrameworkCore.InMemory 6.0.4
+Microsoft.EntityFrameworkCore.SqlServer 6.0.9
+Microsoft.EntityFrameworkCore.Tools 6.0.9
+
+
+
+
+
